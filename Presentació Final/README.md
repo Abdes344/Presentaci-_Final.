@@ -12,6 +12,15 @@
 
 👉 https://github.com/Abdes344/Projecte2
 
+# 📂 Consultoria EverPia — Estructura del projecte
+
+| 📌 Apartat | 🔗 Enllaç |
+|---|---|
+| 📁 P01 | https://github.com/Abdes344/Projecte2/tree/main/P01 |
+| 📁 P02 | https://github.com/Abdes344/Projecte2/tree/main/P02 |
+| 🛠️ Tasca02 | https://github.com/Abdes344/Projecte2/tree/main/Tasca02 |
+| 🛠️ Tasca03 | https://github.com/Abdes344/Projecte2/tree/main/Tasca03 |
+
 ---
 
 ## Projecte 03 — Consultoria EverPia 2
