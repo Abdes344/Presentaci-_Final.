@@ -141,8 +141,8 @@
 | 📌 Apartat | 🔗 Enllaç |
 |---|---|
 | 📁 P01 | https://github.com/classesSMX2n/projecte-7-Abdes344/tree/main/P01 |
-| 📁 P02 | https://github.com/classesSMX2n/projecte-7-Abdes344/tree/main/P02 |
-| 📁 P03 | https://github.com/classesSMX2n/projecte-7-Abdes344/tree/main/P03 |
+| 📁 P02 | https://github.com/Abdes344/projecte-7-Abdes344/tree/main/P02 |
+| 📁 P03 | https://github.com/Abdes344/projecte-7-Abdes344/tree/main/P03 |
 | 🛠️ Tasca01 | https://github.com/classesSMX2n/projecte-7-Abdes344/tree/main/Tasca01 |
 | 🛠️ Tasca02 | https://github.com/classesSMX2n/projecte-7-Abdes344/tree/main/Tasca02 |
 | 🛠️ Tasca03 | https://github.com/classesSMX2n/projecte-7-Abdes344/tree/main/Tasca03 |
