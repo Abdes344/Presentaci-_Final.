@@ -138,4 +138,8 @@
 
 👉 https://github.com/Abdes344/projecte-8-Abdes344
 
+| 📌 Apartat | 🔗 Enllaç |
+|---|---|
+| 🛠️ Tasca01 | https://github.com/classesSMX2n/projecte-8-Abdes344/tree/main/Tasca01 |
+| 🛠️ Tasca02 | https://github.com/classesSMX2n/projecte-8-Abdes344/tree/main/Tasca02 |
 
