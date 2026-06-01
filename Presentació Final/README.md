@@ -44,6 +44,7 @@
 |---|---|
 | 📁 P03 | https://github.com/Abdes344/Projecte3-/tree/main/P03 |
 | 📁 P04 | https://github.com/Abdes344/Projecte3-/tree/main/P04 |
+| 📁 P06 | https://github.com/Abdes344/Projecte3-/tree/main/P06 |
 | 📁 P07 | https://github.com/Abdes344/Projecte3-/tree/main/P07 |
 | 🛠️ Tasca01 | https://github.com/Abdes344/Projecte3-/tree/main/Tasca01 |
 | 🛠️ Tasca02 | https://github.com/Abdes344/Projecte3-/tree/main/Tasca02 |
