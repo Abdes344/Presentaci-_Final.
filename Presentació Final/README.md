@@ -100,6 +100,17 @@
 
 👉 https://github.com/Abdes344/projecte6-Abdes344
 
+| 📌 Apartat | 🔗 Enllaç |
+|---|---|
+| 🛠️ Tasca01 | https://github.com/Abdes344/Projecte6-Abdes344/tree/main/Tasca01 |
+| 🛠️ Tasca02 | https://github.com/Abdes344/Projecte6-Abdes344/tree/main/Tasca02 |
+| 🛠️ Tasca03 | https://github.com/Abdes344/Projecte6-Abdes344/tree/main/Tasca03 |
+| 🛠️ Tasca04 | https://github.com/Abdes344/Projecte6-Abdes344/tree/main/Tasca04 |
+| 🛠️ Tasca05 | https://github.com/Abdes344/Projecte6-Abdes344/tree/main/Tasca05 |
+| 🛠️ Tasca06 | https://github.com/Abdes344/Projecte6-Abdes344/tree/main/Tasca06 |
+| 🛠️ Tasca07 | https://github.com/Abdes344/Projecte6-Abdes344/tree/main/Tasca07 |
+| 🛠️ Tasca08 | https://github.com/Abdes344/Projecte6-Abdes344/tree/main/Tasca08 |
+
 ---
 
 
